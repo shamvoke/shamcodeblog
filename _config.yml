@@ -57,10 +57,10 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title: PRIVACY POLICY
-    url: /PRIVACY-POLICY/
   - title: MILESTONES
     url: /MILESTONES/
+  - title: PRIVACY POLICY
+    url: /PRIVACY-POLICY/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © 2020 SHAMCODE. All rights reserved.
