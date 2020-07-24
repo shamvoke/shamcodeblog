@@ -24,12 +24,20 @@ Few years into web development and am now confident with handling my own code. A
 
 I am so excited to share with you MORE of what SHAMCODE BLOG has to offer!
 
-One thing is clear from my google backed research, for me to be successful in this I need to narrow down to a niche, a single topic that I know well enough to blog about. To be honest, that's my absolute downfall!!!
+One thing is clear from my google backed research, for me to be successful in this I need to narrow down to a **niche**, a single topic that I know well enough to blog about. To be honest, that's my absolute downfall!!!
 
-See, there are so many things am interested in. Web design, front-end web development, exploring code, Bit of animation, content creation - for my youtube channel. Just to mention a few, and that's just online!!! Offline, I do lots of coffee brewing.
+See, there are **so many things** am interested in. Web design, front-end web development, exploring code, Bit of animation, content creation - for my youtube channel. Just to mention a few, and that's just online!!! Offline, I do lots of coffee brewing.
 
-Dear reader, the articles I write in this blog will be broad. It's okay if you come across an article that seems off-topic. You should, however, expect mostly tech related posts. Maybe ill find my niche along the way.
+Dear reader, the articles I write in this blog will be broad. It's okay if you come across an article that seems off-topic. You should, however, expect mostly **tech related** posts. Maybe ill find my niche along the way.
 
-Finally, I envision that with time SHAM CODE blog will be full of helpful and inspiring content that people all over the world could read and appreciate.
+Finally, I **envision** that with time SHAM CODE blog will be full of helpful and inspiring content that people all over the world could read and appreciate.
 
 ## CONTACT ME
+
+It would be lovely to engage with you, hear **your thoughts**, **suggestions**, and maybe **share ideas**. You can reach me on almost all of the common social media platforms or **mail me** at shammulwa@gmail.com
+
+Thank you, come again.
+
+Sincerely,
+
+**SHAM MULWA**
