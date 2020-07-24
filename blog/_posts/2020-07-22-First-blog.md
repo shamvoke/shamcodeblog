@@ -7,7 +7,7 @@ description: >
 sitemap: false
 ---
 
-And my blog is live!
+And my blog is live! Cheers to new adventures...
 {:.lead}
 
 Hi, everyone! **Welcome to my first blog post** and the **official launch of the SHAM CODE Website**. Hooray! I’m **Sham Mulwa**. A designer who codes. Award-winning Introvert. Coffee practitioner. Amateur gamer. Internet geek. Passionate content creator. And a self-taught web developer (well, the internet taught me)
